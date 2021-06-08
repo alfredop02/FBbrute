@@ -7,7 +7,7 @@ Usa un diccionario de mas de 50.000 palabras haciendo combinaciones entre letras
 
 El ataque es silencioso para asi no bloquear los inicios de sesión
 
-    #INSTALACION#
+#INSTALACION
 
 pkg update
 
